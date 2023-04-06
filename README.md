@@ -5,7 +5,7 @@
 ## **Achievments**
 
 ![Discord](https://img.shields.io/discord/1078054630837211156?style=for-the-badge)
-
+![Python](https://img.shields.io/badge/Python-1%20year-yellow)
 
 <!--
 **meowistic/meowistic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
