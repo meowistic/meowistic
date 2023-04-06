@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there, I'm Meow 👋
+
+![Language]([https://img.shields.io/github/last-commit/meowistic/discord-token-nuker](https://img.shields.io/badge/language-python-purple))
 
 <!--
 **meowistic/meowistic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
