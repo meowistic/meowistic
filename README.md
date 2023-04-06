@@ -1,6 +1,8 @@
 ### Hi there, I'm Meow 👋
 
-[Discord](https://discord.gg/JumKTgQz5F)
+[Discord Server](https://discord.gg/JumKTgQz5F)
+
+**Achievments**
 ![Discord](https://img.shields.io/discord/1078054630837211156?style=for-the-badge)
 
 
