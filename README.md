@@ -2,7 +2,7 @@
 
 [Discord Server](https://discord.gg/JumKTgQz5F)
 
-## **Achievements**
+# **Achievements**
 
 ![Discord](https://img.shields.io/discord/1078054630837211156?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-1%20year-yellow?style=for-the-badge)
@@ -17,8 +17,6 @@
 
 
 
-# Request Custom Projects
-
 ## I do custom paid projects without a set price, these include:
 
 * Discord Bots (moderation, I.P. Lookups/Grab builders, Fun games etc.)
@@ -29,6 +27,8 @@
 
 Payments Available 💲:
 Paypal
+
+To request a project hmu on discord: rift#1525 or join the [Discord Server](https://discord.gg/JumKTgQz5F)
 
 
 
