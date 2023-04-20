@@ -25,7 +25,7 @@
 * Custom Minecraft Account Loggers (.jar file, For minecraft forge 1.8)
 * Any other custom python scripts
 
-Payments Available 💲:
+**Payments Available 💲:**
 Paypal
 
 To request a project hmu on discord: rift#1525 or join the [Discord Server](https://discord.gg/JumKTgQz5F)
