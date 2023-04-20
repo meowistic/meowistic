@@ -8,8 +8,8 @@
 ![Python](https://img.shields.io/badge/Python-1%20year-yellow?style=for-the-badge)
 ![HTML](https://img.shields.io/badge/HTML-4%20months-blue?style=for-the-badge)
 ![GitHub User's stars](https://img.shields.io/github/stars/meowistic?color=yellow&style=for-the-badge)
-![most lines](https://img.shields.io/badge/Biggest%20Script%20Coded%3A%20-1688%20lines-red?style=for-the-badge) ([HackVault](https://github.com/meowistic/hackvault) Predicted to be >3000 lines)
-
+![most lines](https://img.shields.io/badge/Biggest%20Script%20Coded%3A%20-1688%20lines-red?style=for-the-badge)
+![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=meowistic&hide_title=true&hide_border=true&layout=compact&langs_count=15&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)
 
 ## Current Active Project
 
