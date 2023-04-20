@@ -5,7 +5,9 @@
 ## **Achievments**
 
 ![Discord](https://img.shields.io/discord/1078054630837211156?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-1%20year-yellow)
+![Python](https://img.shields.io/badge/Python-1%20year-yellow?style=for-the-badge&logo=appveyor)
+![HTML](https://img.shields.io/badge/HTML-4%20months-blue?style=for-the-badge&logo=appveyor)
+![GitHub User's stars](https://img.shields.io/github/stars/meowistic?color=yellow&style=for-the-badge)
 
 <!--
 **meowistic/meowistic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
