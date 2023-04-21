@@ -1,8 +1,8 @@
-## Hi there, I'm Meow 👋
+# Hi there, I'm Meow 👋
 
 [Discord Server](https://discord.gg/JumKTgQz5F)
 
-# **Achievements**
+## **Achievements**
 
 ![Discord](https://img.shields.io/discord/1078054630837211156?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-1%20year-yellow?style=for-the-badge)
