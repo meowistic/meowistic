@@ -18,17 +18,16 @@
 
 ## I do custom paid projects without a set price, these include:
 
-* Discord Bots (moderation, I.P. Lookups/Grab builders, Fun games etc.)
+* Discord Bots (moderation, data transfer, Fun games etc.)
 * [Websites](https://meowistic.github.io) (Frontend/Backend)
-* Custom IP Grabbers (file/website) Custom Discord Token Grabbers (file) and google passwords grabbers, keyloggers etc. (file)
-* Custom Minecraft Account Loggers (.jar file, For minecraft forge 1.8)
+
 * Any other custom python scripts
 
 **Payments Available 💲:** 
 
 *Paypal*
 
-To request a project hmu on discord: rift#1525 or join the [Discord Server](https://discord.gg/JumKTgQz5F)
+To request a project hmu on discord: rift#1525 or join the [Discord Server](https://discord.gg/JumKTgQz5)
 
 
 
