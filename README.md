@@ -5,7 +5,7 @@
 ## **Achievements**
 
 ![Discord](https://img.shields.io/discord/1078054630837211156?style=for-the-badge)
-![Python]([https://img.shields.io/badge/Python-1%20year-yellow?style=for-the-badge](https://img.shields.io/badge/PYTHON-4_years-yellow?style=for-the-badge))
+![Python](https://img.shields.io/badge/PYTHON-4_years-yellow?style=for-the-badge)
 ![HTML](https://img.shields.io/badge/HTML-4%20months-blue?style=for-the-badge)
 ![GitHub User's stars](https://img.shields.io/github/stars/meowistic?color=yellow&style=for-the-badge)
 ![most lines](https://img.shields.io/badge/Biggest%20Script%20Coded%3A%20-1688%20lines-red?style=for-the-badge)
