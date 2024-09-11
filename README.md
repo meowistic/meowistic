@@ -1,6 +1,6 @@
 # Hi there, I'm Meow 👋
 
-[Discord Server](https://discord.gg/JumKTgQz5F)
+
 
 ## **Achievements**
 
@@ -19,15 +19,14 @@
 ## I do custom paid projects without a set price, these include:
 
 * Discord Bots (moderation, data transfer, Fun games etc.)
-* [Websites](https://meowistic.github.io) (Frontend/Backend)
-
+* [Websites](https://kvtsdev.github.io) (Frontend/Backend)
 * Any other custom python scripts
 
 **Payments Available 💲:** 
 
 *Paypal*
 
-To request a project hmu on discord: rift#1525 or join the [Discord Server](https://discord.gg/JumKTgQz5)
+To request a project hmu on discord on https://kvtsdev.github.io
 
 
 
