@@ -1,32 +1,20 @@
-# Hi there, I'm Meow 👋
+<h1 align="center">Hi 👋, I'm kvts</h1>
+<h3 align="center">i like python and cats</h3>
 
+- 🔭 I’m currently working on [nullchat](https://kvtsdev.github.io)
 
+- 🌱 I’m currently learning **networking/arp manipulation**
 
-## **Achievements**
+- 👨‍💻 All of my projects are available at [https://kvtsdev.github.io](https://kvtsdev.github.io)
 
-![Discord](https://img.shields.io/discord/1078054630837211156?style=for-the-badge)
-![Python](https://img.shields.io/badge/PYTHON-4_years-yellow?style=for-the-badge)
-![HTML](https://img.shields.io/badge/HTML-7%20months-blue?style=for-the-badge)
-![most lines](https://img.shields.io/badge/Biggest%20Script%20Coded%3A%20-2673%20lines-red?style=for-the-badge)
-![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=meowistic&hide_title=true&hide_border=true&layout=compact&langs_count=15&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://discord.gg/nnCjAzfctV" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="nnCjAzfctV" height="30" width="40" /></a>
+</p>
 
-## Current Active Project (Under Development) 🛠
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-[HackVault](https://github.com/meowistic/hackvault)
-
-
-
-## I do custom paid projects without a set price, these include:
-
-* Discord Bots (moderation, data transfer, Fun games etc.)
-* [Websites](https://kvtsdev.github.io) (Frontend/Backend)
-* Any other custom python scripts
-
-**Payments Available 💲:** 
-
-*Paypal*
-
-To request a project hmu on discord on https://kvtsdev.github.io
-
-
+<h3 align="left">Support:</h3>
+<p><a href="https://ko-fi.com/kyvts"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="kyvts" /></a></p><br><br>
 
