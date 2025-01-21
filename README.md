@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm meowistic</h1>
 <h3 align="center">i like python and cats</h3>
 
-- 🔭 I’m currently working on [nullchat](https://kvtsdev.github.io)
+- 🔭 I’m currently working on a malware signature checker.
 
-- 🌱 I’m currently learning **networking/arp manipulation**
+- 🌱 I’m currently learning **maldev/malware development**
 
 - 👨‍💻 All of my projects are available at [https://kvtsdev.github.io](https://kvtsdev.github.io)
 
